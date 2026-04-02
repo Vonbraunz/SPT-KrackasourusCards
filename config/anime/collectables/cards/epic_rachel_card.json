@@ -1,0 +1,53 @@
+{
+    "item_type": "card",
+    "clone_item": "573474f924597738002c6174",
+    "id": "6699b7fd0d1d25cf00072bfb",
+    "item_name": "Epic Collectable Card: Rachel",
+    "item_short_name": "Rachel (E)",
+    "item_description": "A Epic collectable card",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "collectables/cards/epic/epic_rachel_card.bundle",
+    "color": "violet",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 48257,
+    "weight": 0.01,
+    "rarity": "epic",
+    "loot_locations": {
+        "laboratory": [
+            "578f87b7245977356274f2cd",
+            "578f8782245977354405a1e3",
+            "5909d7cf86f77470ee57d75a"
+        ],
+        "lighthouse": [
+            "5909d4c186f7746ad34e805a",
+            "5909e4b686f7747f5b744fa4",
+            "5909d5ef86f77467974efbd8"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

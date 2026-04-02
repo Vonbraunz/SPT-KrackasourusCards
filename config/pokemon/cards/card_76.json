@@ -1,0 +1,52 @@
+{
+    "clone_item": "573474f924597738002c6174",
+    "id": "669979d0c73060411f04d2e5",
+    "item_name": "Geodude [\u25cf]",
+    "item_short_name": "Geodude",
+    "item_description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "cards/card_76.bundle",
+    "color": "green",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 9906,
+    "weight": 0.01,
+    "rarity": "common",
+    "loot_locations": {
+        "sandbox_high": [
+            "578f87b7245977356274f2cd",
+            "5909d36d86f774660f0bb900",
+            "5d6fe50986f77449d97f7463"
+        ],
+        "shoreline": [
+            "5909d76c86f77471e53d2adf",
+            "5909d24f86f77466f56e6855",
+            "578f879c24597735401e6bc6"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

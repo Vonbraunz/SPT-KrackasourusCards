@@ -1,0 +1,1011 @@
+{
+    "clone_item": "5a9d6d00a2750c5c985b5305",
+    "id": "669997e1c73060411f04d2ff",
+    "item_name": "Card Binder",
+    "item_short_name": "Binder",
+    "item_description": "A binder that holds all you favorite collectable cards",
+    "item_parent": "55802f3e4bdc2de7118b4584",
+    "category_id": "5b5f6fa186f77409407a7eb7",
+    "item_prefab_path": "binders/binder_bulbasaur.bundle",
+    "color": "blue",
+    "lootable": false,
+    "sold": true,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "item_sound": "item_book",
+    "stack_max_size": 1,
+    "currency": "roubles",
+    "price": 350000,
+    "weight": 0.3,
+    "loot_locations": {},
+    "unlimited_stock": true,
+    "stock_amount": 999999,
+    "ExternalSize": {
+        "width": 1,
+        "height": 2
+    },
+    "slotStructure": [
+        {
+            "_name": "mod_mount_0",
+            "_id": "669997e1c73060411f04d2ff_slot_1",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d263"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_1",
+            "_id": "669997e1c73060411f04d2ff_slot_2",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d264"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_2",
+            "_id": "669997e1c73060411f04d2ff_slot_3",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d265"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_9",
+            "_id": "669997e1c73060411f04d2ff_slot_10",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d26c"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_10",
+            "_id": "669997e1c73060411f04d2ff_slot_11",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d26d"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_11",
+            "_id": "669997e1c73060411f04d2ff_slot_12",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d26e"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_18",
+            "_id": "669997e1c73060411f04d2ff_slot_19",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d275"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_19",
+            "_id": "669997e1c73060411f04d2ff_slot_20",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d276"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_20",
+            "_id": "669997e1c73060411f04d2ff_slot_21",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d277"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_27",
+            "_id": "669997e1c73060411f04d2ff_slot_28",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d27e"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_28",
+            "_id": "669997e1c73060411f04d2ff_slot_29",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d27f"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_29",
+            "_id": "669997e1c73060411f04d2ff_slot_30",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d280"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_36",
+            "_id": "669997e1c73060411f04d2ff_slot_37",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d287"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_37",
+            "_id": "669997e1c73060411f04d2ff_slot_38",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d288"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_38",
+            "_id": "669997e1c73060411f04d2ff_slot_39",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d289"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_45",
+            "_id": "669997e1c73060411f04d2ff_slot_46",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d290"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_46",
+            "_id": "669997e1c73060411f04d2ff_slot_47",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d291"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_47",
+            "_id": "669997e1c73060411f04d2ff_slot_48",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d292"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_54",
+            "_id": "669997e1c73060411f04d2ff_slot_55",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d299"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_55",
+            "_id": "669997e1c73060411f04d2ff_slot_56",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d29a"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_56",
+            "_id": "669997e1c73060411f04d2ff_slot_57",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d29b"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_63",
+            "_id": "669997e1c73060411f04d2ff_slot_64",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2a2"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_64",
+            "_id": "669997e1c73060411f04d2ff_slot_65",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2a3"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_65",
+            "_id": "669997e1c73060411f04d2ff_slot_66",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2a4"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_72",
+            "_id": "669997e1c73060411f04d2ff_slot_73",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2ab"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_73",
+            "_id": "669997e1c73060411f04d2ff_slot_74",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2ac"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_74",
+            "_id": "669997e1c73060411f04d2ff_slot_75",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2ad"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_81",
+            "_id": "669997e1c73060411f04d2ff_slot_82",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2b4"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_82",
+            "_id": "669997e1c73060411f04d2ff_slot_83",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2b5"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_83",
+            "_id": "669997e1c73060411f04d2ff_slot_84",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2b6"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_90",
+            "_id": "669997e1c73060411f04d2ff_slot_91",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2bd"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_91",
+            "_id": "669997e1c73060411f04d2ff_slot_92",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2be"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_92",
+            "_id": "669997e1c73060411f04d2ff_slot_93",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2bf"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_99",
+            "_id": "669997e1c73060411f04d2ff_slot_100",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2c6"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_100",
+            "_id": "669997e1c73060411f04d2ff_slot_101",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2c7"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_101",
+            "_id": "669997e1c73060411f04d2ff_slot_102",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2c8"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_108",
+            "_id": "669997e1c73060411f04d2ff_slot_109",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2cf"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_109",
+            "_id": "669997e1c73060411f04d2ff_slot_110",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2d0"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_110",
+            "_id": "669997e1c73060411f04d2ff_slot_111",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2d1"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_117",
+            "_id": "669997e1c73060411f04d2ff_slot_118",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2d8"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_118",
+            "_id": "669997e1c73060411f04d2ff_slot_119",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2d9"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_119",
+            "_id": "669997e1c73060411f04d2ff_slot_120",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2da"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_126",
+            "_id": "669997e1c73060411f04d2ff_slot_127",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2e1"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_127",
+            "_id": "669997e1c73060411f04d2ff_slot_128",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2e2"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_128",
+            "_id": "669997e1c73060411f04d2ff_slot_129",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2e3"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_135",
+            "_id": "669997e1c73060411f04d2ff_slot_136",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2ea"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_136",
+            "_id": "669997e1c73060411f04d2ff_slot_137",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2eb"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_137",
+            "_id": "669997e1c73060411f04d2ff_slot_138",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2ec"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_144",
+            "_id": "669997e1c73060411f04d2ff_slot_145",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2f3"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_145",
+            "_id": "669997e1c73060411f04d2ff_slot_146",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2f4"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_146",
+            "_id": "669997e1c73060411f04d2ff_slot_147",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2f5"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_153",
+            "_id": "669997e1c73060411f04d2ff_slot_154",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2fc"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_154",
+            "_id": "669997e1c73060411f04d2ff_slot_155",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2fd"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+            "_name": "mod_mount_155",
+            "_id": "669997e1c73060411f04d2ff_slot_156",
+            "_parent": "669997e1c73060411f04d2ff",
+            "_props": {
+                "filters": [
+                    {
+                        "Shift": 0,
+                        "Filter": [
+                            "669979d0c73060411f04d2fe"
+                        ]
+                    }
+                ]
+            },
+            "_required": false,
+            "_mergeSlotWithChildren": false,
+            "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+    ],
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "CanSellOnRagfair": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

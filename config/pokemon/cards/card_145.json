@@ -1,0 +1,52 @@
+{
+    "clone_item": "573474f924597738002c6174",
+    "id": "669979d0c73060411f04d296",
+    "item_name": "Omastar [\u25c6]",
+    "item_short_name": "Omastar",
+    "item_description": "A prehistoric Pok\u00e9mon that died out when its heavy shell moade it impossible for it to catch prey.",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "cards/card_145.bundle",
+    "color": "blue",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 30930,
+    "weight": 0.01,
+    "rarity": "uncommon",
+    "loot_locations": {
+        "rezervbase": [
+            "5909d5ef86f77467974efbd8",
+            "5909e4b686f7747f5b744fa4",
+            "5d6fd13186f77424ad2a8c69"
+        ],
+        "sandbox": [
+            "578f8782245977354405a1e3",
+            "5909d89086f77472591234a0",
+            "5909d45286f77465a8136dc6"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

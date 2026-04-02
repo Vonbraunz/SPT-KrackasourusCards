@@ -1,0 +1,53 @@
+{
+    "item_type": "card",
+    "clone_item": "573474f924597738002c6174",
+    "id": "6699b7fd0d1d25cf00072c04",
+    "item_name": "Rare Collectable Card: Nina",
+    "item_short_name": "Nina (R)",
+    "item_description": "A Rare collectable card",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "collectables/cards/rare/rare_nina_card.bundle",
+    "color": "blue",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 29460,
+    "weight": 0.01,
+    "rarity": "rare",
+    "loot_locations": {
+        "tarkovstreets": [
+            "578f87ad245977356274f2cc",
+            "5909e4b686f7747f5b744fa4",
+            "5909d50c86f774659e6aaebe"
+        ],
+        "woods": [
+            "5909d36d86f774660f0bb900",
+            "5909d24f86f77466f56e6855",
+            "578f8782245977354405a1e3"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

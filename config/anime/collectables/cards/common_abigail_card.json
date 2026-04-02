@@ -1,0 +1,53 @@
+{
+    "item_type": "card",
+    "clone_item": "573474f924597738002c6174",
+    "id": "6699b7fd0d1d25cf00072c3f",
+    "item_name": "Common Collectable Card: Abigail",
+    "item_short_name": "Abigail (C)",
+    "item_description": "A Common collectable card",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "collectables/cards/common/common_abigail_card.bundle",
+    "color": "green",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 5829,
+    "weight": 0.01,
+    "rarity": "common",
+    "loot_locations": {
+        "bigmap": [
+            "5909d7cf86f77470ee57d75a",
+            "578f8778245977358849a9b5",
+            "578f87a3245977356274f2cb"
+        ],
+        "factory4_day": [
+            "578f87a3245977356274f2cb",
+            "5d6fd45b86f774317075ed43",
+            "5d6fe50986f77449d97f7463"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

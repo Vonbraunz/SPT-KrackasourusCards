@@ -1,0 +1,52 @@
+{
+    "clone_item": "573474f924597738002c6174",
+    "id": "669979d0c73060411f04d2af",
+    "item_name": "Raichu [H\u2605]",
+    "item_short_name": "Raichu",
+    "item_description": "Its long tail servers as a ground to protect itself from its own high-voltage power.",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "cards/card_27.bundle",
+    "color": "orange",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 339115,
+    "weight": 0.01,
+    "rarity": "epic",
+    "loot_locations": {
+        "sandbox_high": [
+            "5909d36d86f774660f0bb900",
+            "5d6fe50986f77449d97f7463",
+            "5909d5ef86f77467974efbd8"
+        ],
+        "shoreline": [
+            "578f8782245977354405a1e3",
+            "5909d89086f77472591234a0",
+            "5909d4c186f7746ad34e805a"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

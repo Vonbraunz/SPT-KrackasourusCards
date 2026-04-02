@@ -1,0 +1,53 @@
+{
+    "item_type": "card",
+    "clone_item": "573474f924597738002c6174",
+    "id": "6699b7fd0d1d25cf00072c11",
+    "item_name": "Rare Collectable Card: Amber",
+    "item_short_name": "Amber (R)",
+    "item_description": "A Rare collectable card",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "collectables/cards/rare/rare_amber_card.bundle",
+    "color": "blue",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 31103,
+    "weight": 0.01,
+    "rarity": "rare",
+    "loot_locations": {
+        "sandbox_high": [
+            "5909e4b686f7747f5b744fa4",
+            "578f87a3245977356274f2cb",
+            "59139c2186f77411564f8e42"
+        ],
+        "shoreline": [
+            "578f879c24597735401e6bc6",
+            "5c052cea86f7746b2101e8d8",
+            "5909d7cf86f77470ee57d75a"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}

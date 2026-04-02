@@ -1,0 +1,52 @@
+{
+    "clone_item": "573474f924597738002c6174",
+    "id": "669979d0c73060411f04d299",
+    "item_name": "Aerodactyl [H\u2605]",
+    "item_short_name": "Aerodactyl",
+    "item_description": "A ferocious prehistoric Pok\u00e9mon that goes for the enemy's throat with its serrated saw-like fangs.",
+    "item_parent": "57864a3d24597754843f8721",
+    "category_id": "5b47574386f77428ca22b2f1",
+    "item_prefab_path": "cards/card_148.bundle",
+    "color": "orange",
+    "sold": false,
+    "lootable": true,
+    "stack_max_size": 10,
+    "trader": "k_collector",
+    "trader_loyalty_level": 1,
+    "can_sell_on_ragfair": false,
+    "currency": "roubles",
+    "price": 327186,
+    "weight": 0.01,
+    "rarity": "epic",
+    "loot_locations": {
+        "bigmap": [
+            "5909d24f86f77466f56e6855",
+            "5909d76c86f77471e53d2adf",
+            "5909d50c86f774659e6aaebe"
+        ],
+        "factory4_day": [
+            "578f8778245977358849a9b5",
+            "578f87a3245977356274f2cb",
+            "5d6fd45b86f774317075ed43"
+        ]
+    },
+    "unlimited_stock": true,
+    "item_sound": "item_book",
+    "stock_amount": 999999,
+    "is_container": false,
+    "allow_in_slots": [],
+    "special": false,
+    "ExternalSize": {
+        "width": 1,
+        "height": 1
+    },
+    "quest_item": false,
+    "insurancedisabled": true,
+    "availableforinsurance": false,
+    "examinedbydefault": false,
+    "isunremovable": false,
+    "discardingblock": false,
+    "isundiscardable": false,
+    "isungivable": false,
+    "discardlimit": 2
+}
